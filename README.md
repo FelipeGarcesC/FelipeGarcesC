@@ -47,7 +47,7 @@ I am a self-taught learner. Python, SQL, Javascript, HTML, and CSS are the progr
 ## Let's Connect
 <p align="center">
 	<a href="https://github.com/FelipeGarcesC"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/felipe-garces-dw "><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/felipe-garces-dw" alt="LinkedIn"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
