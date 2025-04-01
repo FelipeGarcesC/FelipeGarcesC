@@ -40,14 +40,3 @@ I am a self-taught learner. Python, SQL, Javascript, HTML, and CSS are the progr
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </span>
 
-<p align= "right">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGarcesC&theme=react&layout=compact" />
-</p>
-
-## Let's Connect
-<p align="center">
-	<a href="https://github.com/FelipeGarcesC"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/felipe-garces-dw" alt="LinkedIn"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
